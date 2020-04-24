@@ -1,3 +1,7 @@
+# Guid
+- npm install
+- npm run serve
+
 # CSS3 image filter with Vuejs
 
 A tiny app to apply css3 filter function to the images. Upload and apply filters easily.
